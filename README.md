@@ -14,6 +14,10 @@ As a commuter who uses **trains** *(commuter, metro, intercity)* as the main mod
 * **Languages *(Most proficient to least)*:** `Python`, `R`, `SQL`, `C`, `C++`, `PHP`, `Java`, `JavaScript`
 
 * **Tools & Platforms:** Power BI, Git, Kali Linux
+
+### 📫 Contact
+* **Discord:** fahatlegend1
+
 <!--
 - 👀 I’m interested in Coding , Programming , Scripting and Making Games on Roblox.
 - 🌱 I’m currently learning Python , C , lua and html.
