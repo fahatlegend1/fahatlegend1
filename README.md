@@ -17,7 +17,7 @@ As a commuter who uses **trains** *(commuter, metro, intercity)* as the main mod
 
 ### 🛠 System Profile
 
-* **Status:** GSoC 2026 Applicant (Open Transit Software Foundation).
+* **Status:** GSoC 2026 Applicant (Open Transit Software Foundation), #ChaiyoGCP Season 6 Participant.
 
 ### 💻 Technical Toolbox
 
